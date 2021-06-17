@@ -1,0 +1,52 @@
+#background {
+    background-color: grey;
+    width: 100%;
+    padding: 10px;
+}
+
+body {
+margin: 0;
+}
+
+#header {
+    background: white;
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    font-size: 24px;
+    font-family: helveltica sans serif;
+    
+}
+
+#nav {
+    background: white;
+    width: 800px;
+    height: 100px;
+    text-align: center;
+    font-size: 24px;
+    font-family: helveltica sans serif;
+    margin-top: 10px;
+
+}
+
+#section {
+    background: red;
+    width: 400px;
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 20;
+    margin-top: 20px;
+}
+
+#aside {
+    background: whitesmoke;
+    width: 390px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#footer {
+    background: black;
+    clear: both;
+}
